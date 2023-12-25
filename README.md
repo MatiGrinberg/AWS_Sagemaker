@@ -1,2 +1,2 @@
 # AWS_Sagemaker
-Simple example on using AWS Sagemaker only to show my skill in it
+Simple example on using AWS Sagemaker only to showcase my skill in it
