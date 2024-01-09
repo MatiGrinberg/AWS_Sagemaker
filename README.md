@@ -1,5 +1,5 @@
 # AWS_Sagemaker
-Simple example on using AWS Sagemaker to showcase my skill in it
+Examples on using AWS Sagemaker to showcase my skill in it
 
 ## 1st example using a Notebook Instance
 I used a common dataset to predict if a group of individuals had an income above a certain threshold.
